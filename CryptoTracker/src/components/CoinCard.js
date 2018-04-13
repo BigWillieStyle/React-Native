@@ -1,3 +1,10 @@
+//
+//  CoinCard.js
+//  CryptoTracker
+//
+//  Created by William Williams on 3/22/18.
+//  Copyright © 2018 DSC. All rights reserved.
+//
 import React from 'react';
 import { View, Text, StyleSheet, Image } from 'react-native';
 import { images } from '../Utils/CoinIcons';

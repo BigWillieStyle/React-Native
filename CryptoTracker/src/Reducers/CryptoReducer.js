@@ -1,3 +1,10 @@
+//
+//  CryptReducer.js
+//  CryptoTracker
+//
+//  Created by William Williams on 3/22/18.
+//  Copyright © 2018 DSC. All rights reserved.
+//
 import {
     FETCHING_COIN_DATA, 
     FETCHING_COIN_DATA_SUCCESS, 
